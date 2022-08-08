@@ -1,0 +1,10 @@
+{
+    "git.ignoreLimitWarning": true,
+    "workbench.colorCustomizations": {
+        "editor.lineHighlightBackground": "#1073cf2d",
+        "editor.lineHighlightBorder": "#9fced11f",
+        "activityBar.background": "#6667AB",
+        "titleBar.activeBackground": "#9B9CC8",
+        "titleBar.activeForeground": "#F9F9FC"
+    }
+}
